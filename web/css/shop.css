@@ -1,0 +1,20 @@
+header {
+    margin-bottom: 4em;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+.container {
+    max-width: 1280px;
+}
+
+form {
+    max-width: 500px;
+}
+
+.btpanier {
+    margin-top: 1em;
+    text-align: right;
+}
